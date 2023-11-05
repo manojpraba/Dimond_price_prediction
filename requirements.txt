@@ -4,5 +4,10 @@ numpy
 seaborn
 ipykernel
 Flask
+<<<<<<< HEAD
 xgboost
 -e .
+=======
+
+#-e .
+>>>>>>> 55ea37489016f14a844b72ee15f1282ba74d93a4
