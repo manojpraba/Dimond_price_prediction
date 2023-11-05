@@ -4,5 +4,5 @@ numpy
 seaborn
 ipykernel
 Flask
-
+xgboost
 -e .
