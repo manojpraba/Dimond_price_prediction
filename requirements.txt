@@ -4,5 +4,8 @@ numpy
 seaborn
 ipykernel
 Flask
-xgboost
--e .
+#this is more stable version
+mlflow==2.2.2
+dvc
+
+#-e .
